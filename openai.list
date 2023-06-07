@@ -1,6 +1,10 @@
 # OpenAI
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,bing
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,identrust.com
