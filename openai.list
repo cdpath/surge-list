@@ -13,3 +13,4 @@ DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
+PROCESS-NAME,/Applications/ChatGPT.app/Contents/MacOS/ChatGPT
