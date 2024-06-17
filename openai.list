@@ -13,4 +13,5 @@ DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,perplexity.ai
 PROCESS-NAME,/Applications/ChatGPT.app/Contents/MacOS/ChatGPT
