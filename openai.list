@@ -16,5 +16,5 @@ DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,sora-cdn.oaistatic.com
-DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,googleapis.com
 PROCESS-NAME,/Applications/ChatGPT.app/Contents/MacOS/ChatGPT
